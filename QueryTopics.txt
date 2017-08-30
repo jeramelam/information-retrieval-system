@@ -1,0 +1,162 @@
+<top>
+
+<num> Number: 497 
+<title> orchids
+
+<desc> Description: 
+How big is the orchid growing industry in the U.S.?  What
+are some of the major growers and how big of an industry
+is it in dollars?
+
+<narr> Narrative: 
+Documents that merely list U.S. orchid growers are relevant.
+Documents that are advertisement for individual growers 
+are not relevant.
+
+</top>
+
+<top>
+
+<num> Number: 498 
+<title> hair transplant 
+
+<desc> Description: 
+How many hair transplant procedures take place in
+the U.S. per year?  What is the cost of such a 
+procedure?  How successful are they, and what are
+the inherent risks? 
+
+<narr> Narrative: 
+Documents revealing any risks or discomfort 
+whatsoever are relevant.  Documents that only 
+discuss hair replacement procedures other than 
+transplanting are not relevant.  
+
+</top>
+
+<top>
+
+<num> Number: 500 
+<title> DNA Testing 
+
+<desc> Description: 
+This search seeks information on the state of the 
+art of DNA testing; what it is and what its goals
+are.
+
+<narr> Narrative: 
+Relevant documents may discuss those things which
+are essentially steps in the DNA testing procedure,
+such as: sequencing, analysis, fingerprinting, and 
+profiling.  Documents that provide descriptions of
+elaborate scientific DNA testing are not relevant.
+
+</top>
+
+
+<top>
+
+<num> Number: 506
+<title>  history of skateboarding? 
+
+<desc> Description:
+What is the history of skateboarding?
+
+<narr> Narrative:
+To be relevant, a document will report on when skateboarding
+first originated and how it came about.  Stories about harm
+done by skateboarding and skateboarding dangers are not relevant.
+Current events about skateboarding are not relevant.
+
+</top>
+
+<top>
+
+<num> Number: 509
+<title> steroids;what does it do to your body
+
+<desc> Description:
+What effect do steroids have on the human body?
+
+<narr> Narrative:
+A relevant document will describe any physiological effect
+of steroids on humans.  Animal studies are not relevant.
+
+</top>
+
+<top>
+
+<num> Number: 511
+<title> 
+diseases caused by smoking?
+
+<desc> Description:
+What diseases does smoking cause?
+
+<narr> Narrative:
+A relevant document must describe smoking tobacco products as a cause
+of a disease.  Diseases caused by second-hand smoke and
+smokeless tobacco are not relevant.
+
+</top>
+
+<top>
+
+<num> Number: 512
+<title>  how are tornadoes formed?
+
+<desc> Description:
+How are tornadoes formed?
+
+<narr> Narrative:
+A relevant document will provide the meteorological and atmospheric
+conditions necessary to create a tornado and explain how the
+conditions interact to form the funnel-shaped cloud.
+
+</top>
+
+<top>
+
+<num> Number: 513
+<title> earthquakes? 
+
+<desc> Description:
+What causes earthquakes, and where do they occur most often?
+
+<narr> Narrative:
+A relevant document will discuss scientific causes of earthquakes
+or tremors and/or report geographic areas where earthquake activity
+occurs most frequently.
+
+</top>
+
+<top>
+
+<num> Number: 514
+<title> how much money for retirement?
+
+<desc> Description:
+Find documents that discuss the financial aspects of retirement planning.
+
+<narr> Narrative:
+A relevant document will describe how to calculate the amount
+of money needed during retirement and investment strategies
+to fund one's lifestyle after retiring from regular employment.
+
+</top>  
+
+<top>
+
+<num> Number: 516
+<title> halloween?
+
+<desc> Description:
+When, where, and how did Halloween evolve?
+  
+<narr> Narrative:
+A relevant document will discuss the origin of Halloween and the original
+customs of Halloween.  Modern day trick-or-treating stories are not
+relevant.
+
+</top> 
+
